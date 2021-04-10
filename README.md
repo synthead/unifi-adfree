@@ -1,4 +1,4 @@
-Ubiquiti decided to introduce ads in Unifi, which is a privately-hosted web app to manage some Ubiquiti devices.  This ad blocker list blocks ads in Unifi from any site location.
+Ubiquiti decided to introduce [ads in Unifi](https://user-images.githubusercontent.com/820984/114285060-feca0380-9a08-11eb-9940-cd23629eb785.png), which is a privately-hosted web app to manage some Ubiquiti devices.  This ad blocker list blocks ads in Unifi from any site location.
 
 To add this list to uBlock Origin, open uBlock's settings page and click on the "Filter lists" tab.  At the bottom of the page, expand the "Custom" tree and check the "Import..." box.  Then, add this URL to the textarea that appears:
 
