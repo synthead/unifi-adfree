@@ -1,0 +1,2 @@
+! Ad on dashboard.
+##body[id="unifi-network-app-container"] .css-xdhwf5
