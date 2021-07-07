@@ -1,2 +1,6 @@
+! Title: UniFi Adfree
+! Description: A list for your ad blocker to remove ads hosted on UniFi
+! Homepage: https://github.com/synthead/unifi-adfree
+
 ! Ad on dashboard.
 ##body[id="unifi-network-app-container"] .css-xdhwf5, .css-18762v1
