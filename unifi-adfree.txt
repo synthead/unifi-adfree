@@ -3,4 +3,4 @@
 ! Homepage: https://github.com/synthead/unifi-adfree
 
 ! Ad on dashboard.
-##body[id="unifi-network-app-container"] .css-xdhwf5, .css-18762v1
+##body[id="unifi-network-app-container"] .css-xdhwf5, .css-18762v1, .udmProAd
