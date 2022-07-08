@@ -6,4 +6,4 @@ To add this list to uBlock Origin, open uBlock's settings page and click on the 
 
 The "Apply changes" button on the top-left of the page will become yellow.  Click this button, and you're done!  This URL reflects the latest commit to this list, so your ad blocker will auto-update accordingly.
 
-This list can be used on all the other common ad blockers too, but they have their own settings page that I won't get into detail about.  If you don't know about [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en), you might consider switching to it as it's [GPL-licensed](https://github.com/chrisaljoudi/uBlock/blob/master/LICENSE.txt) and is [faster and lighter on resources than other ad blockers](https://github.com/chrisaljoudi/uBlock#performance).
+This list can be used on all the other common ad blockers too, but they have their own settings page that I won't get into detail about.  If you don't know about [uBlock Origin](https://ublockorigin.com), you might consider switching to it as it's fast, light, and is [GPL-licensed](https://github.com/gorhill/uBlock/blob/master/LICENSE.txt).
